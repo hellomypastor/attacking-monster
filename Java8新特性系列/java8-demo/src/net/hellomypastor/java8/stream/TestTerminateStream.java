@@ -1,12 +1,3 @@
-/**
- * Project Name:Test
- * File Name:TestTerminateStream.java
- * Package Name:com.hanbin.java8
- * Date:2017年10月26日 下午3:19:08
- * Copyright (c) 2017,   All Rights Reserved.
- *
-*/
-
 package net.hellomypastor.java8.stream;
 
 import java.util.Arrays;

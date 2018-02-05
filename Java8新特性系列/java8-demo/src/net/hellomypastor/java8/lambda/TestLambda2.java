@@ -1,12 +1,3 @@
-/**
- * Project Name:Test
- * File Name:TestLambda2.java
- * Package Name:com.hanbin.java8
- * Date:2017年10月25日 下午3:45:36
- * Copyright (c) 2017,   All Rights Reserved.
- *
-*/
-
 package net.hellomypastor.java8.lambda;
 
 import java.util.Comparator;
